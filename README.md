@@ -1,6 +1,8 @@
 # Door_Opener
 Door opener for the door at the small workshop
 
+PCB: [link to Altium365](https://eforce.365.altium.com/designs/4DC78BE3-F31A-49D6-B669-CB9EC259C5F4)
+
 ## ADDING CARDS
 
 To add cards, tap the master chip (currently the yellow erární chip in the Big Workshop) and immediately replace it with the card that needs to be added.
