@@ -5,8 +5,17 @@ PCB: [link to Altium365](https://eforce.365.altium.com/designs/4DC78BE3-F31A-49D
 
 ## ADDING CARDS
 
-To add cards, tap the master chip (currently the yellow erární chip in the Big Workshop) and immediately replace it with the card that needs to be added.
-*add pics*
+to add a card, log in to the access point:
+ssid: Door_Opener
+password: ''
+Then head to http://192.168.4.1
+
+Enter name and Card ID using the card reader
+Click add card.
+
+## DELETING CARDS
+
+follow the same steps as adding a card, enter the card UID into the text box and click Delete card.
 
 ## IN CASE CHIP IS LOST
 To make another chip/card the master chip. just add/replace the comparitor in line 50 of the code with the new chips ID and flash the ESP.
