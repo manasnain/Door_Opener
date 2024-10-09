@@ -10,11 +10,13 @@ ssid: Door_Opener
 password: ''
 Then head to http://192.168.4.1
 
+
+Enter name and Card ID into the first two text boxes.
+Click add card.
+
+
 If you don't know your cards UID you can use the RFID scanner in the els room ( aquarium/clear cabinet).
 Just connect the scanner to a laptop and tap your card on it, you can input the UID you get straight into the door_opener, no need to modify it.
-
-Enter name and Card ID using the card reader
-Click add card.
 
 ## DELETING CARDS
 
