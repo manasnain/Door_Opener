@@ -20,11 +20,12 @@ Just connect the scanner to a laptop and tap your card on it, you can input the 
 
 ## DELETING CARDS
 
-Log into the access point with the same steps as above, enter the UID you want to delete into the text box and click enter.
+Log into the access point with the same steps as above, enter the UID you want to delete into the third text box and click Delete Card.
 
-after logging into the access point and going to http://192.168.4.1 you should see the following.
 
 ## NOTE
+
+after logging into the access point and going to http://192.168.4.1 you should see the following.
 ![image](https://github.com/user-attachments/assets/3b1b5c23-edc7-4480-81aa-185001e084cd)
 
 
