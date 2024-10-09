@@ -15,24 +15,11 @@ Click add card.
 
 ## DELETING CARDS
 
-follow the same steps as adding a card, enter the card UID into the text box and click Delete card.
+Log into the access point with the same steps as above, enter the UID you want to delete into the text box and click enter.
 
-## IN CASE CHIP IS LOST
-To make another chip/card the master chip. just add/replace the comparitor in line 50 of the code with the new chips ID and flash the ESP.
+after logging into the access point and going to http://192.168.4.1 you should see the following.
+![image](https://github.com/user-attachments/assets/3b1b5c23-edc7-4480-81aa-185001e084cd)
 
-To find out what the chips ID is, tap it on the reader and check it out on the serial output.
-
-"Card ID : YOUR_CARD_ID has not registered. 
-
-------------"
-
-  Heres the line you need to edit:
-  
-```if (card_num.equals("040646F2AD6F80")){```   
-change it to   
-```if (card_num.equals("YOUR_CARD_ID")){```
-
-The master chip can also be used to open the door, you just have to wait longer.
 
 
 
